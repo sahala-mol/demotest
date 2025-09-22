@@ -6,7 +6,9 @@
     <test name="TestRun">
         <classes>
             <class name="demotest.mainlogin"/> 
-            <class name="demotest.LeadSourceTest"/>
+            <!-- <class name="demotest.LeadSourceTest"/>-->
+            <class name="demotest.AppWall"/>
+            
         </classes>
     </test>
 
